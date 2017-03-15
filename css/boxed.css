@@ -11,6 +11,8 @@
     }
     body {
         background: url(../images/backgrounds/bg_img05.jpg);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
     }
     #body-wrapper {
         left: 50%;
